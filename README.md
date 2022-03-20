@@ -1,2 +1,2 @@
-# megatron-core
+# megatron
 Internal library for Megatron
