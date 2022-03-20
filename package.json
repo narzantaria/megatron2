@@ -1,0 +1,22 @@
+{
+  "name": "@megatron/core",
+  "version": "1.0.0",
+  "description": "Internal library for Megatron IDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narzantaria/megatron.git"
+  },
+  "keywords": [
+    "megatron"
+  ],
+  "author": "Nar Zantaria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/narzantaria/megatron/issues"
+  },
+  "homepage": "https://github.com/narzantaria/megatron#readme"
+}
