@@ -1,5 +1,5 @@
 {
-  "name": "@megatron/core",
+  "name": "megatron2",
   "version": "1.0.0",
   "description": "Internal library for Megatron IDE",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/narzantaria/megatron.git"
+    "url": "git+https://github.com/narzantaria/megatron2.git"
   },
   "keywords": [
-    "megatron"
+    "megatron2"
   ],
   "author": "Nar Zantaria",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/narzantaria/megatron/issues"
+    "url": "https://github.com/narzantaria/megatron2/issues"
   },
-  "homepage": "https://github.com/narzantaria/megatron#readme"
+  "homepage": "https://github.com/narzantaria/megatron2#readme"
 }
