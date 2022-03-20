@@ -1,2 +1,2 @@
 # megatron
-Internal library for Megatron
+Internal library for Megatron IDE
